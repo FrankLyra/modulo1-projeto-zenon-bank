@@ -10,7 +10,7 @@ import java.util.List;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-    public static void main(String[] args) {
+    void main(String[] args) {
 
         // nome do arquivo (pode vir de args também)
         String fileName = "data/PS_20174392719_1491204439457_log.csv";
